@@ -1,4 +1,4 @@
-# Executando o Node.js
+## Executando o Node.js
 
 - Em grande parte do tempo, `estaremos utilizando a execução do Node.js via arquivo` do projeto.
 - Porém, é possível `executá-lo via terminal`.
